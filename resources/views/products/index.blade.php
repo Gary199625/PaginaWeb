@@ -4,7 +4,7 @@
     <div class="row">
         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
             <div class="box-header with-border">
-                <h3 class="box-title">Administración de productos</h3>
+                <h3 class="box-title" style="color: #9f191f">Administra tus productos</h3>
                 <div class="box-tools pull-right" style="margin-right: -300px">
                 </div>
             </div>
